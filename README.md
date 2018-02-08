@@ -1,9 +1,10 @@
 AceProxy: Ace Stream HTTP Proxy
 ===============================
-AceProxy allows you to watch [Ace Stream](http://acestream.org/) live streams or BitTorrent files over HTTP.
-It's written in Python + gevent and should work on both Linux and Windows (Mac OS should work too, but was not tested)
+AceProxy позволяет просматривать трансляции Ace Stream или видеофайлы BitTorrent на любых устройствах, поддерживающих HTTP-видео (Smart TV, Android, STB). Он написан на Python + gevent и должен работать как на Linux, так и на Windows (на Mac OS тоже должен, но это не точно...)
 
-Currently it supports Ace Stream Content-ID hashes (PIDs), .acestream files and usual torrent files.
+В настоящее время он поддерживает AceStream Content-ID (PID), файлы .acestream и обычные файлы торрентов .torrent.
 
-**For installation, configuration and using info, visit** [Wiki](https://github.com/ValdikSS/aceproxy/wiki)
-# aceproxy
+Для установки, настройки и использования посетите [Wiki](https://github.com/grifonukus/aceproxy/wiki)
+
+
+
